@@ -1,0 +1,16 @@
+pandas
+tqdm
+matplotlib
+transformers
+tiktoken
+names-dataset
+torch
+torchtext
+nltk
+scikit-learn
+gensim
+seaborn
+SciencePlots
+chromadb
+langchain
+gpt4all
