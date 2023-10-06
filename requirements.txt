@@ -4,8 +4,6 @@ matplotlib
 transformers
 tiktoken
 names-dataset
-torch
-torchtext
 nltk
 scikit-learn
 gensim
@@ -14,3 +12,4 @@ SciencePlots
 chromadb
 langchain
 gpt4all
+torchtext==0.15.2
