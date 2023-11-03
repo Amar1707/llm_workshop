@@ -10,6 +10,6 @@ gensim
 seaborn
 SciencePlots
 chromadb
-langchain
-gpt4all
+langchain==0.0.271
+gpt4all==1.0.12
 torchtext==0.15.2
